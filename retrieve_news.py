@@ -6,6 +6,7 @@ from datetime import date
 from datetime import timedelta
 import nltk
 nltk.download('stopwords')
+nltk.download('punkt')
 
 today = date.today()
 week_before = today - timedelta(days = 7)
