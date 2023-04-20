@@ -1,5 +1,6 @@
-newsapi
+NewsApi
 streamlit
 numpy
 datetime
 rake_nltk
+pandas
