@@ -4,10 +4,10 @@ import streamlit as st
 import numpy as np
 from datetime import date
 from datetime import timedelta
+nltk.download('stopwords')
 
 today = date.today()
 week_before = today - timedelta(days = 7)
-st.write(week_before)
 
 # Set up NewsAPI client
 newsapi = NewsApiClient(api_key='0eab831ebf9c402ba6f4f2312b355ad6')
