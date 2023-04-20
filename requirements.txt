@@ -1,0 +1,5 @@
+newsapi
+streamlit
+numpy
+datetime
+rake_nltk
