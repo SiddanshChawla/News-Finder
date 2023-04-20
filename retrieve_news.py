@@ -4,6 +4,7 @@ import streamlit as st
 import numpy as np
 from datetime import date
 from datetime import timedelta
+import nltk
 nltk.download('stopwords')
 
 today = date.today()
