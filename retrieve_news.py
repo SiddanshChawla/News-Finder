@@ -30,5 +30,5 @@ for keyword in important_keywords:
 for article in articles:
     st.write(article['title'])
     st.write(article['description'])
-    st.write(article['url']
+    st.write(article['url'])
     st.write('---')
