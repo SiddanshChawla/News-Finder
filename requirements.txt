@@ -4,3 +4,4 @@ numpy
 datetime
 rake_nltk
 pandas
+nltk
