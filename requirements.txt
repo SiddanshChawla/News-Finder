@@ -1,4 +1,4 @@
-NewsApi
+newsapi-python
 streamlit
 numpy
 datetime
